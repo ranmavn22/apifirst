@@ -8,7 +8,6 @@ public/hot
 storage/*.key
 .env.*.php
 .env.php
-.env
 Homestead.yaml
 Homestead.json
 
@@ -16,5 +15,4 @@ Homestead.json
 .rocketeer/
 public/images/
 .idea/
-storage/
 composer.lock
