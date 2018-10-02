@@ -1,0 +1,1 @@
+<p>Bạn đã đăng kí thành công với tài khoản: {{ $data['account'] }}</p>
